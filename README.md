@@ -15,8 +15,12 @@ Soy estudiante de Ingeniería de Sistemas y me apasiona la programación, la bio
 ## 📫 Contacto
 - Email: tuemail@gmail.com
 - LinkedIn: https://linkedin.com/in/tuusuario
-## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebasGing&show_icons=true&theme=dark)
+<!--
+Código para estadísticas (lo activaré cuando mi perfil tenga más actividad)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
+-->
+
 ## 📌 Lenguajes más usados
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasGing&layout=compact&theme=dark)
 ## 🛠️ Tecnologías
