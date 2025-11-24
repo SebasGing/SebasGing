@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Sebastián Gudiño
 
-<!--
-**SebasGing/SebasGing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería de Sistemas y me apasiona la programación, la biomimética y el desarrollo de software.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- Java (Swing)
+- Python
+- Git & GitHub
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos Destacados
+- Sistema de gestión de jugadores en Java
+- App de bioluminiscencia basada en luciérnagas
+
+## 📫 Contacto
+- Email: tuemail@gmail.com
+- LinkedIn: https://linkedin.com/in/tuusuario
