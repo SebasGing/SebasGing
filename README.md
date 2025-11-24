@@ -17,3 +17,18 @@ Soy estudiante de Ingeniería de Sistemas y me apasiona la programación, la bio
 - LinkedIn: https://linkedin.com/in/tuusuario
 ## 📊 Estadísticas de GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SebasGing&show_icons=true&theme=dark)
+## 📌 Lenguajes más usados
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebasGing&layout=compact&theme=dark)
+## 🛠️ Tecnologías
+![Java](https://img.shields.io/badge/Java-orange?logo=java)
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Banner](https://github.com/SebasGing/SebasGing/blob/main/imagen.png)
+# 👋 ¡Hola! Soy Sebastián
+
+## 🚀 Sobre mí
+Soy estudiante de Ingeniería de Sistemas apasionado por la programación y la IA.
+
+## 📂 Proyectos
+- Sistema de gestión de jugadores en Java (Swing)
+- Proyecto de biomimética basado en luciérnagas
