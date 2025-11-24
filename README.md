@@ -15,3 +15,5 @@ Soy estudiante de Ingeniería de Sistemas y me apasiona la programación, la bio
 ## 📫 Contacto
 - Email: tuemail@gmail.com
 - LinkedIn: https://linkedin.com/in/tuusuario
+## 📊 Estadísticas de GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark)
